@@ -1,6 +1,6 @@
 # My Certificates
 
-Certificates which I get in the this lockdown period. 
+Certificates which I get in the lockdown period. 
 
 Courses which I have completed are:
 - Introduction to SQL
